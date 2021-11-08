@@ -1,5 +1,5 @@
 {
-    "name": "leafo/scssphp",
+    "name": "kvinav/scssphp",
     "type": "library",
     "description": "scssphp is a compiler for SCSS written in PHP.",
     "keywords": ["css", "stylesheet", "scss", "sass", "less"],
@@ -9,9 +9,9 @@
     ],
     "authors": [
         {
-            "name": "Leaf Corcoran",
-            "email": "leafot@gmail.com",
-            "homepage": "http://leafo.net"
+            "name": "Kévin Avignon",
+            "email": "kavignonpro@gmail.com",
+            "homepage": "http://akode.fr"
         }
     ],
     "autoload": {
